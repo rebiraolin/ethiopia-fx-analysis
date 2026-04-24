@@ -12,5 +12,6 @@ python-dateutil==2.9.0.post0
 scikit-learn>=1.4
 scipy==1.17.1
 seaborn>=0.13
+streamlit>=1.30
 six==1.17.0
 tzdata==2026.1
